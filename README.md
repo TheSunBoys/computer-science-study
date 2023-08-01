@@ -1,10 +1,18 @@
 # Computer Science Studies
-In this repository there are studies resources for improvement your knowledge at the field.
+In this repository there are studies resources to improvement your knowledge at the field.
 As UERN's students, We are going to create and collaborate according to our schedule.
 
 # How can I collaborate?
-Issues and PR's are open, if you want to shre your skills, knowledge, help, etc. You can 
+Issues and PR's are open, if you want to share your skills, knowledge, help, etc. You can 
 do this without any problem. Knowledge is free!
+
+## Issues
+ ![image](https://github.com/TheSunBoys/computer-science-study/assets/90275895/62c3e67b-f357-4253-86ea-a731b8e407d3)
+
+## Pull Requests (PR's)
+
+         Has the same logic, share complete files and explain how you have structured files.
+
 
 # Subjects with code
 Warnings:
